@@ -9,7 +9,7 @@ Remember to like and share our videos!
 [Click here to join Cody Dimensions Server](https://discord.gg/D8RPg7YSJv)
 
 
-## Codes of slash commanda
+## Codes of slash commands
 Switch the branches to view codes of different slash commands
 
-<img href="https://i.imgur.com/FIgLPRr.png">
+<img src="https://i.imgur.com/FIgLPRr.png"/>
