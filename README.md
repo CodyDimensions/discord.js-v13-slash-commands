@@ -7,3 +7,8 @@ Remember to like and share our videos!
 
 ### Discord Server
 [Click here to join Cody Dimensions Server](https://discord.gg/D8RPg7YSJv)
+
+
+## Codes of slash commanda
+Switch the branches to view codes of different slash commands
+https://i.imgur.com/FIgLPRr.png
