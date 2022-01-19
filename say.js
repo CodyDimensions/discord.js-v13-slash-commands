@@ -8,6 +8,6 @@ module.exports = {
     option.setName('message').setDescription('The message to say').setRequired(true)
     ),
     async execute(client, interaction) {
-        interaction.reply({ content: interaction.options.getString('message'), ephemeral: true })
+        interaction.reply({ content: interaction.options.getString('message'), ephemeral: true }) //get the input text of the options and echo the text
     }
 }
