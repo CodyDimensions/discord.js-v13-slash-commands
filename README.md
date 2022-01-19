@@ -1,5 +1,6 @@
 # Discord.js v13 Say/Echo Slash Command
 say/echo slash command of discord.js v13
+Youtube tutorial: [Click here to watch video](https://www.youtube.com/watch?v=ceu00tGJ_GY)
 
 ### Subscribe our YouTube Channel
 [Cody Dimensions Youtube channel](https://www.youtube.com/channel/UChCwEZuaY3fsYRLp5WZ3ZJg)
