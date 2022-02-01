@@ -24,8 +24,8 @@ module.exports = {
             let user = interaction.options.getUser('user') //get the user from the options of slash cmd
             
             //user getted in options and get the wallet * bank db of them
-            let wallet = db.get(`wallet_${user}`) //get the wallet db of a user
-            let bank = db.get(`bank_${user}`) //get the bank db of a user
+            let wallet = db.get(`wallet_${user.id}`) //get the wallet db of a user
+            let bank = db.get(`bank_${user.id}`) //get the bank db of a user
 
             //user did not select any user, so they get the interaction user's wallet/bank db
             let authorWallet = db.get(`wallet_${interaction.user.id}`)
