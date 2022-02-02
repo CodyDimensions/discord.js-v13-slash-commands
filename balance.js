@@ -7,7 +7,7 @@ module.exports = {
         .setName('balance') //set the name of the slash command
         .setDescription('Displays the balance of a user.') //description of the slash cmd
         .addUserOption((option) => { //add a slash cmd options for user to choose which balance of the user he/she wants to display
-            option
+            return option
             .setName('user') //name of the option
             .setDescription('Select a user') //description of the option
             .setRequired(false) //user can choose a user or check the balance of interaction user
