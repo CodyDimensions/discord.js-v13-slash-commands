@@ -1,5 +1,6 @@
-# discord.js-v13-slash-commands
-Creating slash commands for discord.js v13 bot
+# Discord.js v13 Balance Slash Command
+balance slash command of discord.js v13
+Youtube tutorial: [Click here to watch video](https://www.youtube.com/watch?v=a96JUBiUbMY&t=4s)
 
 ### Subscribe our YouTube Channel
 [Cody Dimensions Youtube channel](https://www.youtube.com/channel/UChCwEZuaY3fsYRLp5WZ3ZJg)
