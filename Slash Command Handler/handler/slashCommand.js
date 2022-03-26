@@ -34,7 +34,7 @@ module.exports = (client) => {
             await rest.put(
                 guild
                 ? Routes.applicationGuildCommands(application_id, guild) //registered the slash command in guild
-                : Routes.applicationGuildCommands(application_id), //registered the slash command globally
+                : Routes.applicationCommands(application_id), //registered the slash command globally
                 {
                     body: slashCommands,
                 }
