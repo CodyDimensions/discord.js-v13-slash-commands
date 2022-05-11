@@ -1,5 +1,9 @@
-# discord.js-v13-slash-commands
-Creating slash commands for discord.js v13 bot
+# Discord.js v13 RPS Slash Command
+RPS slash command of discord.js v13
+
+_This is an edited version of rps command that originally code by our staff Mamadou#6836_
+
+Youtube tutorial: [Click here to watch video](https://www.youtube.com/watch?v=utlvKlidlbc)
 
 ### Subscribe our YouTube Channel
 [Cody Dimensions Youtube channel](https://www.youtube.com/channel/UChCwEZuaY3fsYRLp5WZ3ZJg)
