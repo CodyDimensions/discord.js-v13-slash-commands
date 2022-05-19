@@ -15,12 +15,12 @@ module.exports = {
             {
                 txt: 'Paper',
                 emoji: '🤚',
-                index: 0
+                index: 1
             },
             {
                 txt: 'Scissors',
                 emoji: '✌️',
-                index: 0
+                index: 2
             }
         ];
 
