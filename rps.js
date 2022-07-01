@@ -100,7 +100,7 @@ module.exports = {
                 });
 
                 // edit the message
-                await rpsMsg.edit({ embeds: [embed], components: components, fetchyReply: true });
+                await rpsMsg.edit({ embeds: [embed], components: components, fetchReply: true });
 
                 collector.stop() // stop the message component collector
             }
